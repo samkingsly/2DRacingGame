@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d639231dadb0f1944a26966c23a5ec10, type: 3}
+  m_Name: user data
+  m_EditorClassIdentifier: 
+  coins: 0
+  bikesUnlockStatus: 0100
+  bikesCost: 0000000014000000
+  bikes:
+  - {fileID: 4928401483130961527, guid: ebad6a55d29552e47a8678dd9a952e59, type: 3}
+  - {fileID: 1909193214636346040, guid: 811ad2bee531eee4fac858820fee86c9, type: 3}
+  currentBike: 0
+  currentLevel: 0
+  unlockedLevel: 1
+  totalLevels: 3
